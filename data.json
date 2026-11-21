@@ -1,0 +1,67 @@
+{
+  "day": "2026-11-21",
+  "checkedAt": "2026-11-21T12:04:00-03:00",
+  "coverage": "Amostra inicial de reclamações públicas identificadas na data; relatos não constituem fatos comprovados ou clientes disponíveis.",
+  "cases": [
+    {
+      "id": "imovel-his2",
+      "publishedAt": "2026-11-21T08:38:00-03:00",
+      "area": "Imobiliário",
+      "organization": "Cury Construtora",
+      "title": "Restrições de imóvel HIS-2 descobertas após contratação",
+      "summary": "Compradora relata descobrir condições de uso da unidade depois de assinar o contrato e pede cancelamento.",
+      "priority": "Avaliar primeiro",
+      "action": "Conferir a publicidade e as informações anteriores à assinatura, os requisitos de HIS/HMP e a possibilidade jurídica de distrato.",
+      "docs": "Contrato e anexos, anúncio, comprovantes de pagamento e conversas.",
+      "url": "https://www.reclameaqui.com.br/cury-construtora/comprei-imovel-para-moradia-propria-e-fui-impedido-de-cancelar-a-compra_XRKvz5qktfEWwf68/"
+    },
+    {
+      "id": "scr-14-centavos",
+      "publishedAt": "2026-11-21T09:50:00-03:00",
+      "area": "Bancário",
+      "organization": "Banco PAN",
+      "title": "Financiamento negado após apontamento contestado no SCR",
+      "summary": "Reclamante relaciona negativa de financiamento a registro de R$ 0,14 no sistema de informações de crédito.",
+      "priority": "Avaliar primeiro",
+      "action": "Solicitar relatório do Registrato/SCR, verificar correção do registro e confirmar motivo formal da negativa.",
+      "docs": "Relatório SCR, negativa formal, contratos e protocolos.",
+      "url": "https://www.reclameaqui.com.br/banco-pan/meu-financiamento-imobiliario-foi-negado-por-um-apontamento-indevido-no-scr_jdBqbVo4Q9XyMMkR/"
+    },
+    {
+      "id": "divida-desconhecida",
+      "publishedAt": "2026-11-21T08:58:00-03:00",
+      "area": "Bancário",
+      "organization": "Banco Bradesco",
+      "title": "Dívida desconhecida e restrição de crédito para financiar imóvel",
+      "summary": "Consumidora relata negativação por suposta dívida de R$ 200 e prejuízo no financiamento habitacional.",
+      "priority": "Avaliar primeiro",
+      "action": "Verificar origem da dívida, regularidade da inscrição, tentativas administrativas e consequência comprovável.",
+      "docs": "Consulta cadastral, contratos, protocolos e documento da financeira.",
+      "url": "https://www.reclameaqui.com.br/bradesco/tive-meu-nome-negativado-indevidamente-e-o-banco-nao-resolve_yLrhz4Vywb_9K5n9/"
+    },
+    {
+      "id": "falso-advogado",
+      "publishedAt": "2026-11-21T08:04:00-03:00",
+      "area": "Bancário",
+      "organization": "Banco Bradesco",
+      "title": "Golpe do falso advogado com reembolso parcial",
+      "summary": "Reclamante relata prejuízo de R$ 8.200 e restituição parcial após fraude.",
+      "priority": "Revisar provas",
+      "action": "Examinar modalidade de fraude, documentos, notificações e eventuais mecanismos de contestação.",
+      "docs": "Extratos, transferências, boletim de ocorrência e protocolos.",
+      "url": "https://www.reclameaqui.com.br/bradesco/fui-vitima-de-e-o-banco-nao-devolveu-meu-dinheiro_gYOqsoVkxmSy-JUk/"
+    },
+    {
+      "id": "retencao-recebiveis",
+      "publishedAt": "2026-11-21T09:35:00-03:00",
+      "area": "Empresarial",
+      "organization": "Ton",
+      "title": "Possível retenção de recebíveis da plataforma de pagamentos",
+      "summary": "Reclamação relata retenção de valores, sem informações suficientes para aferir irregularidade.",
+      "priority": "Revisar provas",
+      "action": "Examinar contrato, política de retenção, justificativa e histórico de repasses.",
+      "docs": "Contrato, extratos da conta, comprovantes das vendas e justificativa da plataforma.",
+      "url": "https://www.reclameaqui.com.br/ton-solucoes-de-pagamento/empresa-retem-meu-dinheiro-e-nao-devolve_p-p1KqMRVzXy6haj/"
+    }
+  ]
+}
