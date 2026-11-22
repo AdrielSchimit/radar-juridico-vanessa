@@ -1,7 +1,7 @@
 {
   "day": "2026-11-22",
-  "checkedAt": "2026-11-22T09:56:44-03:00",
-  "coverage": "10 reclamações públicas com data original de publicação de 22/11/2026 exibida na fonte; seleção não exaustiva, sem dados pessoais. Horários conforme página da reclamação.",
+  "checkedAt": "2026-11-22T15:55:56-03:00",
+  "coverage": "12 reclamações públicas com data original de publicação em 22/11/2026 conferida nas páginas do Reclame Aqui; seleção não exaustiva, sem dados pessoais. Horários de publicação conforme fonte.",
   "cases": [
     {
       "id": "condominio-chaves",
@@ -112,16 +112,40 @@
       "url": "https://www.reclameaqui.com.br/grupo-pacaembu/minha-casa-esta-com-infiltracao-trincas-e-mofo-e-ninguem-resolve_4OJ_f6-yu1FoQ98q/"
     },
     {
-      "id": "venda-veiculo",
-      "publishedAt": "2026-11-22T02:48:00-03:00",
-      "area": "Contratual",
-      "organization": "GAC BRASIL",
-      "title": "Venda de veículo suspensa após aprovação de financiamento",
-      "summary": "Consumidor relata aprovação de carta de crédito e posterior suspensão da venda do modelo, com possível alteração de preço.",
-      "priority": "Revisar provas",
-      "action": "Verificar proposta comercial, validade, condições do financiamento, confirmação do pedido e eventuais prejuízos.",
-      "docs": "Proposta, mensagens, carta de crédito, oferta publicitária e comprovantes de gastos.",
-      "url": "https://www.reclameaqui.com.br/gac-motor-brasil/a-gac-suspendeu-a-venda-do-aion-ut-premium-e-me-deixou-no-prejuizo_BotGMzumVNMtKkyL/"
+      "id": "liberacao-hipotecaria",
+      "publishedAt": "2026-11-22T09:44:00-03:00",
+      "area": "Imobiliário",
+      "organization": "Plano&Plano",
+      "title": "Imóvel quitado sem termo de liberação hipotecária e entrega das chaves",
+      "summary": "Comprador relata quitação na planta e demora para receber documento necessário à regularização e comercialização do imóvel.",
+      "priority": "Avaliar primeiro",
+      "action": "Conferir matrícula atualizada, gravame, quitação, obrigação contratual de baixa e atraso na entrega das chaves.",
+      "docs": "Contrato, recibos de quitação, matrícula atualizada, solicitação do termo e protocolos.",
+      "url": "https://www.reclameaqui.com.br/plano-e-plano-construcoes-e-participacoes/construtora-nao-retorna-sobre-envio-do-termo-de-liberacao-hipotecaria-para-regularizacao-da-documentacao-do-meu-imovel-e-entrega-das-chaves-desde-junho-contrato-quitado-na-planta_5OSPHDd3Jy7EyZyC/"
+    },
+    {
+      "id": "financiamento-amortizacao",
+      "publishedAt": "2026-11-22T09:47:00-03:00",
+      "area": "Bancário",
+      "organization": "Banco Bradesco",
+      "title": "Divergência na evolução do saldo de financiamento imobiliário",
+      "summary": "Mutuário questiona como amortizações extraordinárias foram refletidas no saldo devedor de contrato imobiliário.",
+      "priority": "Avaliar primeiro",
+      "action": "Reconstituir planilha de evolução do saldo e verificar método Price, TR, juros, datas e efeitos das amortizações.",
+      "docs": "Contrato, demonstrativos de evolução, extratos, comprovantes de amortização e planilha de cálculo.",
+      "url": "https://www.reclameaqui.com.br/bradesco/divergencia-no-saldo-devedor-do-meu-financiamento-e-falta-de-clareza-nas-amortizacoes_nm3eOhoeSyroY_sI/"
+    },
+    {
+      "id": "registrato-quitado",
+      "publishedAt": "2026-11-22T11:31:00-03:00",
+      "area": "Bancário",
+      "organization": "BRB - Banco de Brasília",
+      "title": "Registro de dívida quitada no SCR e dificuldade para financiar imóvel",
+      "summary": "Consumidora relata manutenção de informação de dívida já quitada em relatório de crédito e impacto em novo financiamento.",
+      "priority": "Avaliar primeiro",
+      "action": "Comparar datas de quitação e bases de referência do SCR, verificar correção e causalidade da negativa de crédito.",
+      "docs": "Comprovante de quitação, relatórios Registrato/SCR de competências distintas, negativa formal e protocolos.",
+      "url": "https://www.reclameaqui.com.br/brb-banco-de-brasilia/brb-nao-atualiza-minha-pendencia-no-registrato-mesmo-apos-quitacao_to8Ig4o3sf-RF9VJ/"
     }
   ]
 }
