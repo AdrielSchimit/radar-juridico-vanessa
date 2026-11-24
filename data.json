@@ -1,7 +1,7 @@
 {
   "day": "2026-11-24",
-  "checkedAt": "2026-11-24T10:04:04-03:00",
-  "coverage": "Seleção não exaustiva de resultados públicos com data original de publicação explícita; relatos não comprovados.",
+  "checkedAt": "2026-11-24T15:59:31-03:00",
+  "coverage": "Amostra pública não exaustiva; consolida registros da manhã e cinco novos relatos com data original explícita. Relatos não comprovados.",
   "cases": [
     {
       "id": "XVd983aqbcqwqXIR",
@@ -86,6 +86,66 @@
       "action": "Conferir tentativas de pagamento e eventual mora imputável ao credor.",
       "docs": "Acordo, boleto, mensagens e registros bancários.",
       "url": "https://www.reclameaqui.com.br/tenda-construtora-s-a/boleto-sem-registro-impede-pagamento_3OPrRX7p4BSCUNV7/"
+    },
+    {
+      "id": "s9EyFpbHcTwD7-DY",
+      "publishedAt": "2026-11-24T10:50:00-03:00",
+      "area": "Imobiliário",
+      "organization": "Santander Financiamentos",
+      "title": "Cancelamento de financiamento pendente",
+      "summary": "Relato de cobrança de parcela após desistência da aquisição e pedido de distrato.",
+      "priority": "Avaliar primeiro",
+      "action": "Conferir estágio da operação, condições de cancelamento e exigibilidade da parcela.",
+      "docs": "Contrato, pedido de distrato, boletos e comunicações.",
+      "url": "https://www.reclameaqui.com.br/santander-financiamentos/nao-consigo-cancelar-meu-financiamento-imobiliario-e-o-banco-me-cobra_s9EyFpbHcTwD7-DY/"
+    },
+    {
+      "id": "4kDBiaBR7xeyURcH",
+      "publishedAt": "2026-11-24T10:11:00-03:00",
+      "area": "Imobiliário",
+      "organization": "Banco Santander",
+      "title": "Quitação sem assinatura do interveniente",
+      "summary": "Relato de risco de perda da compra e multa contratual por documento pendente após pagamento.",
+      "priority": "Avaliar primeiro",
+      "action": "Verificar obrigações do interveniente, prazo e eventual necessidade de medida urgente.",
+      "docs": "Contratos, quitação, prazo da proposta e protocolos.",
+      "url": "https://www.reclameaqui.com.br/santander/meu-imovel-esta-pago-mas-o-santander-nao-assina-o-contrato-e-corro-risco-de-perder-o-negocio_4kDBiaBR7xeyURcH/"
+    },
+    {
+      "id": "M_C-POOF8Ov6umud",
+      "publishedAt": "2026-11-24T09:58:00-03:00",
+      "area": "Empresarial",
+      "organization": "PicPay",
+      "title": "Recebíveis de MEI retidos",
+      "summary": "Relato de retenção de R$ 2.033,24 por gravame cuja origem é contestada.",
+      "priority": "Avaliar primeiro",
+      "action": "Conferir registro do gravame, autorização contratual e impacto no capital de giro.",
+      "docs": "Extrato de recebíveis, contrato, registro CERC e protocolos.",
+      "url": "https://www.reclameaqui.com.br/picpay/nao-recebi-repasse-de-vendas-de-r-2-24-e-picpay-reteve-indevidamente_M_C-POOF8Ov6umud/"
+    },
+    {
+      "id": "c9NhFgnp45sVxNbx",
+      "publishedAt": "2026-11-24T08:54:00-03:00",
+      "area": "Imobiliário",
+      "organization": "Itaú",
+      "title": "Assinatura pendente após quitação",
+      "summary": "Relato de demora na formalização de operação com interveniente quitante.",
+      "priority": "Avaliar primeiro",
+      "action": "Conferir quitação, obrigações documentais e prazos contratuais.",
+      "docs": "Contratos, comprovante de pagamento e protocolos.",
+      "url": "https://www.reclameaqui.com.br/financiamento-imobiliario-itau/urgente-aguardando-assinatura-do-itau-apos-quitacao-de-financiamento-imobiliario-interveniente-quitante_c9NhFgnp45sVxNbx/"
+    },
+    {
+      "id": "Yp1oOkxbh-6PnP0K",
+      "publishedAt": "2026-11-24T10:09:00-03:00",
+      "area": "Bancário",
+      "organization": "Santander Financiamentos",
+      "title": "Gravame de veículo após quitação",
+      "summary": "Relato de restrição persistente que impede novo financiamento.",
+      "priority": "Revisar provas",
+      "action": "Verificar quitação, situação do gravame e prazo de baixa.",
+      "docs": "Contrato, comprovante de quitação e consulta do veículo.",
+      "url": "https://www.reclameaqui.com.br/santander-financiamentos/quitei-meu-carro-e-o-banco-nao-deu-baixa-impedindo-novo-financiamento_Yp1oOkxbh-6PnP0K/"
     }
   ]
 }
