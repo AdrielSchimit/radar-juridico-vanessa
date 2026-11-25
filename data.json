@@ -1,7 +1,7 @@
 {
   "day": "2026-11-25",
-  "checkedAt": "2026-11-25T09:57:02-03:00",
-  "coverage": "Amostra pública não exaustiva; data original e horário explícitos nos resultados indexados do Reclame Aqui. Relatos não comprovam ilícitos.",
+  "checkedAt": "2026-11-25T15:59:11-03:00",
+  "coverage": "Amostra pública não exaustiva; consolidação da pesquisa da manhã com novas publicações de 25/11 verificadas nos resultados indexados. Relatos não comprovam ilícitos.",
   "cases": [
     {
       "id": "itau",
@@ -40,18 +40,6 @@
       "url": "https://www.reclameaqui.com.br/banco-do-brasil/preciso-renegociar-meu-financiamento-imobiliario-e-evitar-perder-meu-imovel_It-C43FNIx2-KyOh/"
     },
     {
-      "id": "caixa",
-      "publishedAt": "2026-11-25T05:12:00-03:00",
-      "area": "Bancário",
-      "organization": "Caixa",
-      "title": "Diferença no débito habitacional",
-      "summary": "Consumidor relata débito superior ao demonstrativo em R$ 153,27.",
-      "priority": "Revisar provas",
-      "action": "Conciliar lançamentos e verificar eventual compensação.",
-      "docs": "Demonstrativo, extratos e contrato.",
-      "url": "https://www.reclameaqui.com.br/caixa-economica-federal/solicito-revisao-do-demonstrativo-do-meu-financiamento-habitacional_X-aNqgZfP7lPIIJG/"
-    },
-    {
       "id": "caixa-venda",
       "publishedAt": "2026-11-25T07:50:00-03:00",
       "area": "Imobiliário",
@@ -74,18 +62,6 @@
       "action": "Conferir datas do protesto e quitação, responsabilidade pelo cancelamento e anuência.",
       "docs": "Certidão de protesto, quitação e protocolos.",
       "url": "https://www.reclameaqui.com.br/bradesco-financiamentos/fui-protestado-apos-quitar-meu-financiamento-e-o-banco-nao-enviou-a-carta-de-anuencia_XWGBgtIWZOu1becu/"
-    },
-    {
-      "id": "econ",
-      "publishedAt": "2026-11-25T00:41:00-03:00",
-      "area": "Imobiliário",
-      "organization": "Econ",
-      "title": "Encargos por demora no financiamento",
-      "summary": "Comprador atribui atraso à construtora e contesta possíveis encargos.",
-      "priority": "Revisar provas",
-      "action": "Examinar cláusula de isenção, cronologia e responsabilidade pelo atraso.",
-      "docs": "Contrato, boletos e chamados.",
-      "url": "https://www.reclameaqui.com.br/econ-construtora-e-incorporadora/solicito-isencao-de-juros-e-correcao-monetaria-por-atraso-da-econ-no-financiamento_2BWW5UaIQCEJF8_T/"
     },
     {
       "id": "decolar",
@@ -112,16 +88,64 @@
       "url": "https://www.reclameaqui.com.br/gol/gol-nao-emitiu-passagem-e-nao-estornou-r-13-de-compra_HWusMdhahczYr_oI/"
     },
     {
-      "id": "hostgator",
-      "publishedAt": "2026-11-25T01:06:00-03:00",
-      "area": "Contratual",
-      "organization": "HostGator",
-      "title": "Retenção por benefícios anunciados como gratuitos",
-      "summary": "Consumidor contesta desconto no reembolso de hospedagem por domínios promocionais.",
+      "id": "mrv",
+      "publishedAt": "2026-11-25T11:48:00-03:00",
+      "area": "Imobiliário",
+      "organization": "MRV",
+      "title": "Juros de obra após entrega",
+      "summary": "Consumidor relata encargos de obra em 2026 apesar de ter recebido as chaves em 2024.",
+      "priority": "Avaliar primeiro",
+      "action": "Conferir conclusão da obra, habite-se e fundamento dos encargos.",
+      "docs": "Contrato, extratos, termo de entrega e habite-se.",
+      "url": "https://www.reclameaqui.com.br/mrv-engenharia/cobranca-indevida-de-juros-de-obra-apos-entrega-do-imovel-pela-mrv_F5BdsX6f0hHx44Gh/"
+    },
+    {
+      "id": "caixa-franca",
+      "publishedAt": "2026-11-25T11:44:00-03:00",
+      "area": "Imobiliário",
+      "organization": "Caixa",
+      "title": "Parcelas divergentes da previsão contratual",
+      "summary": "Mutuário relata débitos superiores às prestações previstas no financiamento de terreno e construção.",
+      "priority": "Avaliar primeiro",
+      "action": "Comparar sistema de amortização, indexadores e encargos com o contrato.",
+      "docs": "Contrato, planilha de evolução e extratos.",
+      "url": "https://www.reclameaqui.com.br/caixa-economica-federal/contratei-financiamento-com-parcelas-fixas-e-estao-cobrando-valores-absurdos_kaO121iX0XtQLfUg/"
+    },
+    {
+      "id": "porto",
+      "publishedAt": "2026-11-25T11:06:00-03:00",
+      "area": "Imobiliário",
+      "organization": "Porto Bank",
+      "title": "Saldo de venda imobiliária pendente",
+      "summary": "Vendedor relata que o financiamento anterior foi quitado, mas o saldo da venda ainda não foi repassado.",
+      "priority": "Avaliar primeiro",
+      "action": "Conferir condições de liberação da carta de crédito e prazos.",
+      "docs": "Contrato, carta de crédito, comprovantes e protocolos.",
+      "url": "https://www.reclameaqui.com.br/porto-seguro-administradora-de-consorcios/nao-recebi-o-valor-restante-da-venda-do-meu-imovel_qqvZYQKhPhZzEG4k/"
+    },
+    {
+      "id": "quinto",
+      "publishedAt": "2026-11-25T10:36:00-03:00",
+      "area": "Imobiliário",
+      "organization": "QuintoAndar",
+      "title": "Demora na análise de financiamento",
+      "summary": "Comprador relata análise jurídica pendente há mais de dois meses e aproximação do prazo informado.",
       "priority": "Revisar provas",
-      "action": "Examinar oferta, condições de cancelamento e natureza dos serviços.",
-      "docs": "Oferta, contrato, fatura e pedido de cancelamento.",
-      "url": "https://www.reclameaqui.com.br/hostgator/retiveram-parte-do-valor-do-meu-plano-de-hospedagem-e-dominios-gratuitos_37Ar3zztIHE78T9h/"
+      "action": "Conferir obrigações, pendências documentais e consequências contratuais do atraso.",
+      "docs": "Compromisso de compra, cronologia e comunicações.",
+      "url": "https://www.reclameaqui.com.br/quinto-andar/meu-processo-de-financiamento-imobiliario-esta-parado-ha-mais-de-dois-meses-na-analise-juridica_fHRpCiDp7Mf2PHjc/"
+    },
+    {
+      "id": "next",
+      "publishedAt": "2026-11-25T10:47:00-03:00",
+      "area": "Bancário",
+      "organization": "Banco next",
+      "title": "Parcelamento contestado",
+      "summary": "Consumidor relata encargos mensais de parcelamento que afirma não ter autorizado.",
+      "priority": "Revisar provas",
+      "action": "Verificar origem do parcelamento, consentimento e regras de crédito.",
+      "docs": "Faturas, contrato, extratos e protocolos.",
+      "url": "https://www.reclameaqui.com.br/next-me/cobranca-indevida-e-nao-autorizada-de-parc-facil-e-encargos-por-12-meses_WKCqz6YVsvDjuBTK/"
     }
   ]
 }
