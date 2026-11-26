@@ -1,7 +1,7 @@
 {
   "day": "2026-11-26",
-  "checkedAt": "2026-11-26T09:56:00-03:00",
-  "coverage": "Amostra pública não exaustiva; datas originais verificadas nos resultados públicos do Reclame Aqui. Relatos não comprovam ilícitos.",
+  "checkedAt": "2026-11-26T15:55:21-03:00",
+  "coverage": "Amostra pública não exaustiva; oito registros da manhã e quatro adicionais com data original de 26/11/2026 nos resultados públicos. Relatos não comprovam ilícitos.",
   "cases": [
     {
       "id": "mitre",
@@ -98,6 +98,54 @@
       "action": "Confirmar encerramento contratual e natureza dos registros.",
       "docs": "Comprovante de cancelamento, cobranças e consulta cadastral.",
       "url": "https://www.reclameaqui.com.br/hapvida-saude/cobraca-indevida-com-o-plano-cancelado_IOXQLGO7DP-UZKMX/"
+    },
+    {
+      "id": "econ",
+      "publishedAt": "2026-11-26T10:40:00-03:00",
+      "area": "Imobiliário",
+      "organization": "Econ",
+      "title": "Multa de distrato contestada",
+      "summary": "Relato de financiamento recusado e multa de 50% sem esclarecimento prévio.",
+      "priority": "Avaliar primeiro",
+      "action": "Examinar regime do empreendimento, cláusulas de distrato e dever de informação.",
+      "docs": "Contrato, quadro-resumo, negativa bancária e comunicações.",
+      "url": "https://www.reclameaqui.com.br/econ-construtora-e-incorporadora/fui-cobrado-multa-de-50-por-cancelamento-de-imovel-sem-aviso-previo_HNX9RMbRShDjRyIb/"
+    },
+    {
+      "id": "adapta",
+      "publishedAt": "2026-11-26T10:12:00-03:00",
+      "area": "Contratual",
+      "organization": "Adapta.org",
+      "title": "Recálculo de assinatura e multa",
+      "summary": "Relato de recálculo retroativo de mensalidades e multa no cancelamento de plano anual.",
+      "priority": "Revisar provas",
+      "action": "Conferir transparência e proporcionalidade das cláusulas.",
+      "docs": "Oferta, contrato, faturas e cálculo do estorno.",
+      "url": "https://www.reclameaqui.com.br/adapta-org/contratei-plano-anual-pedi-cancelamento-e-fui-cobrado-em-dobro_iWRxY3QoazCAghti/"
+    },
+    {
+      "id": "catarinense",
+      "publishedAt": "2026-11-26T07:07:00-03:00",
+      "area": "Transporte",
+      "organization": "Auto Viação Catarinense",
+      "title": "Restituição parcial de passagens",
+      "summary": "Relato de estornos inferiores aos valores pagos em duas compras canceladas.",
+      "priority": "Revisar provas",
+      "action": "Conferir regras aplicáveis ao transporte e discriminação das retenções.",
+      "docs": "Bilhetes, recibos, termos e extratos.",
+      "url": "https://www.reclameaqui.com.br/auto-viacao-catarinense/solicito-revisao-do-reembolso-de-minhas-compras-canceladas_PxR-EnQQVdRellDn/"
+    },
+    {
+      "id": "vai",
+      "publishedAt": "2026-11-26T07:38:00-03:00",
+      "area": "Transporte",
+      "organization": "Vai de Promo",
+      "title": "Cancelamento aéreo contestado",
+      "summary": "Relato de negativa de restituição após pedido de cancelamento em menos de 24 horas.",
+      "priority": "Avaliar primeiro",
+      "action": "Verificar antecedência do embarque, horários e regras tarifárias e da ANAC.",
+      "docs": "Bilhete, comprovante de compra, protocolos e tarifa.",
+      "url": "https://www.reclameaqui.com.br/vai-de-promo/cancelamento-solicitado-em-menos-de-24-horas-e-reembolso-de-r-1-00-negado_60uMHlptPi8G6_ei/"
     }
   ]
 }
