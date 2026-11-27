@@ -1,7 +1,7 @@
 {
   "day": "2026-11-27",
-  "checkedAt": "2026-11-27T10:04:21-03:00",
-  "coverage": "Amostra pública não exaustiva; datas originais verificadas nos resultados públicos do Reclame Aqui, com precisão de minuto. Relatos não comprovam ilícitos. Análise documental apenas, sem prospecção individual.",
+  "checkedAt": "2026-11-27T16:03:43-03:00",
+  "coverage": "Amostra pública não exaustiva. Oito registros da manhã e três novas publicações com data original verificada. Horários com precisão de minuto. Relatos não comprovam ilícitos; análise documental sem prospecção individual.",
   "cases": [
     {
       "id": "mrv",
@@ -98,6 +98,42 @@
       "action": "Identificar relatório e verificar obrigação de atualização.",
       "docs": "Relatório, confirmação de encerramento e protocolos.",
       "url": "https://www.reclameaqui.com.br/pefisa/nao-deram-baixa-no-cancelamento-do-meu-cartao-pefisa-no-registrato_ANn1uQSGMYL7JO1P/"
+    },
+    {
+      "id": "cyrela",
+      "publishedAt": "2026-11-27T10:45:00-03:00",
+      "area": "Imobiliário",
+      "organization": "Grupo Cyrela",
+      "title": "Dificuldades no repasse imobiliário",
+      "summary": "Relato de demora e dificuldades na conclusão do financiamento.",
+      "priority": "Avaliar primeiro",
+      "action": "Examinar prazos e responsabilidades contratuais.",
+      "docs": "Contrato, comunicações e proposta bancária.",
+      "url": "https://www.reclameaqui.com.br/cyrela-brazil-realty/nao-consigo-finalizar-meu-financiamento-com-a-living-e-estou-tendo-muitos-problemas-com-o-repasse_lEBtHROGe6KSinLa/"
+    },
+    {
+      "id": "facta",
+      "publishedAt": "2026-11-27T10:20:00-03:00",
+      "area": "Bancário",
+      "organization": "Facta Financeira",
+      "title": "Restituição de seguro contestada",
+      "summary": "Relato de restituição inferior à esperada após cancelamento de seguro prestamista.",
+      "priority": "Revisar provas",
+      "action": "Conferir condições de cancelamento e cálculo proporcional.",
+      "docs": "Apólice, contrato e comprovante de restituição.",
+      "url": "https://www.reclameaqui.com.br/facta-financeira/solicitei-cancelamento-de-seguro-e-recebi-reembolso-menor-que-o-devido_JQyZwRhpL_nbhlq5/"
+    },
+    {
+      "id": "porto",
+      "publishedAt": "2026-11-27T09:27:00-03:00",
+      "area": "Saúde",
+      "organization": "Porto Saúde",
+      "title": "Reajuste de mensalidade contestado",
+      "summary": "Relato de aumento em plano empresarial sem comunicação prévia percebida.",
+      "priority": "Revisar provas",
+      "action": "Examinar modalidade contratual, comunicação e memória de cálculo.",
+      "docs": "Contrato, faturas e avisos de reajuste.",
+      "url": "https://www.reclameaqui.com.br/porto-seguro-seguro-saude/reajuste-de-plano-de-saude-sem-aviso-previo-e-falta-de-transparencia-na-cobranca_YFPsTp3zL4Fjib1O/"
     }
   ]
 }
